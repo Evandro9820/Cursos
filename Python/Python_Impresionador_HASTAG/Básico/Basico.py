@@ -19,6 +19,7 @@ print("Evandro")
 
 # Escreva um programa que exiba o resultado de 2a x 3b, em que a = 3 e b =5
 
+print(4**2 / 30)
 a = 3
 b = 5
 
