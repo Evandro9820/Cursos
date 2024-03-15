@@ -20,4 +20,14 @@ Para criar tuplas usamos a seguinte forma
 
 ```python
 
+    vendas = ('Dark',  '25/25/25',2000,'estagiario')
+
+```
+
+## Acessando o valor de uma tupla
+```python
+nome = vendas[0]
+data_contratacap = vendas[1]
+valor_salario = vendas[2]
+cargo = vendas[3]
 ```
